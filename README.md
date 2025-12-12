@@ -3,3 +3,7 @@
 
 # 🔧 Key Features
   Dual-arm humanoid robotic design ,Multi-axis smart servo motors for smooth motion,Supports visual programming and Python/C++ ,Expandable with sensors and additional modules ,AI-based gesture and motion programming
+
+![rviz](/image/atom_urdf.jpg)
+
+![rviz](/image/rviz.jpg)
