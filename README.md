@@ -1,28 +1,38 @@
-# DOBOT Atom Models · SSRobotic Collection
+<p align="center"><img src="assets/ssrobotics-logo.jpg" alt="SSRobotics original logo" width="240"></p>
 
-> **This collection has moved into [Humanoid Robot Hub](https://github.com/SSRobotic/humanoid-robot-hub).**
-> Browse the consolidated code: [collections/dobot/atom-urdf](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/collections/dobot/atom-urdf) · [Search resources](https://ssrobotic.github.io/humanoid-robot-hub/)
+# 🦾 DOBOT Atom Models · SSRobotics
 
-URDF / Xacro and meshes for Atom visualization and model inspection.
+**Part of [Humanoid Robot Hub](https://github.com/SSRobotic/humanoid-robot-hub)** · [🔎 Search the ecosystem](https://ssrobotic.github.io/humanoid-robot-hub/) · [👤 Follow SSRobotic](https://github.com/SSRobotic)
 
-Curated and organized by **SSRobotic — Robotics Engineer & Open-source Curator**. Original source: [Dobot-Arm](https://github.com/Dobot-Arm/dobot_atom_urdf). The original code, documentation and license notices retain their respective authorship.
+DOBOT Atom URDF / Xacro model and mesh collection.
 
-## What this collection provides
+Curated and organized by **SSRobotic — Robotics Engineer & Open-source Curator**. Original platform code and documentation remain credited to [Dobot-Arm](https://github.com/Dobot-Arm/dobot_atom_urdf).
 
-URDF / Xacro and meshes for Atom visualization and model inspection.
+## 🛠️ What is inside
 
-The Hub contains a snapshot of this repository at `6a4461f532e284ecbe7f8bc6e9413accfc923c01`. This repository is retained as an archived reference so previous links and history remain available. Updates to the curated collection belong in the Hub.
+This repository contains the existing DOBOT Atom Models source collection, together with its original history and notices. The [original documentation](UPSTREAM_README.md) describes installation, examples and dependencies. Use the documented robot generation and software versions.
 
----
+## 🚀 Start here
 
-## Original documentation
+1. Read [UPSTREAM_README.md](UPSTREAM_README.md) and inspect the source tree.
+2. Check hardware compatibility, middleware and the dependency versions documented by the original project.
+3. Build in the project-specific workspace. This collection has its own setup; the Hub provides navigation and discovery.
 
-# ✅Dobot Atom Humanoid 
-  The Dobot Atom Humanoid is an educational humanoid robot designed to help students and developers learn about robotics, motion control, and AI-based applications. It features a compact and lightweight body with multi-axis servo joints that allow smooth, natural, and human-like movements. The robot supports an easy-to-use programming environment and can work with sensors and additional modules. Users can explore key robotics concepts such as inverse kinematics, motion planning, balance control, and human–robot interaction. The Dobot Atom Humanoid is ideal for robotics education, STEM learning, demonstrations, and research projects. It provides an accessible and practical way to understand and experiment with humanoid robot systems while maintaining good performance and flexibility.
+## 🔗 Connected directories
 
-# 🔧 Key Features
-  Dual-arm humanoid robotic design ,Multi-axis smart servo motors for smooth motion,Supports visual programming and Python/C++ ,Expandable with sensors and additional modules ,AI-based gesture and motion programming
+[🦾 Models](https://github.com/SSRobotic/humanoid-models) · [🌐 Simulation](https://github.com/SSRobotic/humanoid-simulation) · [🔌 SDKs](https://github.com/SSRobotic/humanoid-hardware-sdks) · [📡 ROS](https://github.com/SSRobotic/humanoid-ros2) · [👁️ Vision](https://github.com/SSRobotic/humanoid-vision) · [🤏 Manipulation](https://github.com/SSRobotic/humanoid-manipulation)
 
-![rviz](./image/atom_urdf.jpg)
+[🏠 Main Hub](https://github.com/SSRobotic/humanoid-robot-hub) · [🗂️ All repositories](https://github.com/SSRobotic?tab=repositories) · [💡 Suggest a resource](https://github.com/SSRobotic/humanoid-robot-hub/issues/new/choose)
 
-![rviz](./image/rviz.jpg)
+## 📚 Source & attribution
+
+- Original source: [https://github.com/Dobot-Arm/dobot_atom_urdf](https://github.com/Dobot-Arm/dobot_atom_urdf).
+- Consolidated source snapshot: `6a4461f532e284ecbe7f8bc6e9413accfc923c01`.
+- Historical snapshot in the Hub: [collections/dobot/atom-urdf](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/collections/dobot/atom-urdf).
+- Current collection: [SSRobotic/dobot-atom-models](https://github.com/SSRobotic/dobot-atom-models).
+
+Existing license files and copyright notices are retained. Original SDKs, models, third-party libraries and binaries keep their respective license terms. The SSRobotics logo is supplied by its creator.
+
+## 🙌 Follow the collection
+
+If this resource helps your work, follow [SSRobotic](https://github.com/SSRobotic) for future robotics resources and [star the main Hub](https://github.com/SSRobotic/humanoid-robot-hub) to bookmark the ecosystem.
